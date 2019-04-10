@@ -1,0 +1,12 @@
+{
+    "produtos": [
+      {
+        "ativo": true,
+        "nome": "beib",
+        "descricao": "sasa",
+        "quant": 323,
+        "valor": 12,
+        "id": 1
+      }
+    ]
+  }
